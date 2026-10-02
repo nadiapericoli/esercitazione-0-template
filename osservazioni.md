@@ -24,11 +24,11 @@ Esito dopo la modifica e spiegazione della correzione: dopo la modifica il progr
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché: 
+Quali file ho incluso nel commit e perché: nel commit ho incluso hello.c e osservazioni.md perchè gli eseguibili sono ignorati da Git, quindi non serve aggiungere hello.
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub: abbiamo controllato nel repository la presenza dei file e abbiamo visto il tempo da quando sono stati caricati.
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: git pull serve a scaricare da GitHub i commit caricati. Non serve aggiungere un nuovo clone perchè il collegamento tra GitHub e il terminale c'è già, sarebbe dunque una ridondanza.
 
 ## Step 2 — Eco: prima prova
 
