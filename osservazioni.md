@@ -30,6 +30,8 @@ Come ho verificato che la versione provata sia presente su GitHub: abbiamo contr
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: git pull serve a scaricare da GitHub i commit caricati. Non serve aggiungere un nuovo clone perchè il collegamento tra GitHub e il terminale c'è già, sarebbe dunque una ridondanza.
 
+Verifica del git pull.
+
 ## Step 2 — Eco: prima prova
 
 Argomenti passati, comando e risultato:
