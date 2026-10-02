@@ -2,6 +2,7 @@
 
 int main(void)
 {
+  printf("brigata Marta e Nadia!!!\n");
     /*
      * TODO: stampa esattamente:
      * Hello, computational physics!
