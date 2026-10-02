@@ -9,6 +9,8 @@ int main(int argc, char *argv[])
     }
 
     char *testo = argv[1];
+    int intero = atoi(argv[2]);
+    double reale = atof(argv[3]);
 
     /* TODO: converti gli argomenti in tipi appropriati. Usa atoi o atof
     * prendi ispirazione da:
@@ -21,5 +23,7 @@ int main(int argc, char *argv[])
     /* TODO: scrivi una sola chiamata a printf che stampi testo, intero e reale,
      * separati da uno spazio e seguiti da un carattere di nuova riga. */
 
+    printf("%s %d %f\n", testo, intero, reale);
+    
     return 0;
 }
